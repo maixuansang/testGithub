@@ -1,0 +1,23 @@
+{
+  "name": "testGithub",
+  "version": "1.0.0",
+  "description": "demo thử github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maixuansang/testGithub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maixuansang/testGithub/issues"
+  },
+  "homepage": "https://github.com/maixuansang/testGithub#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
